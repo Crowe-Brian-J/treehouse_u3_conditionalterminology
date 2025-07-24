@@ -18,6 +18,8 @@ const day = new Date().getDay()
   console.log('Invalid Day')
 } */
 
+//most developers think this is a bad choice to use when evaluating conditionals
+
 switch (day) {
   case 0:
     console.log('Sunday')
