@@ -1,4 +1,4 @@
-const isTrue = true
+const isTrue = false
 
 if (isTrue) {
   console.log('yes')

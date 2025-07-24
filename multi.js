@@ -1,4 +1,4 @@
-const day = 1
+const day = new Date().getDay()
 
 if (day === 0) {
   console.log('Sunday')
